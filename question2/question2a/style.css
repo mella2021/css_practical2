@@ -1,0 +1,15 @@
+img {
+    border:1px solid blanchedalmond;
+    display:block;
+    margin-left: auto;
+    margin-right:auto ;
+    border-radius: 4px;
+    padding:5px;
+    width: 50%;
+  }
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px;
+    background-color: aquamarine;
+}

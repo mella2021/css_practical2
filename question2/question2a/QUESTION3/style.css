@@ -1,0 +1,33 @@
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+
+    color:brown;
+}
+img{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width:50%;
+  float:left;
+
+}
+
+.outline{
+    text-align:center ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color:brown;
+
+}
+.container{
+    color:red;
+}
+body{
+    text-align: center;
+    background-color: burlywood;
+}
+.html{
+    display:inline-block;
+    text-align: center;
+}
